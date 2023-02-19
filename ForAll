@@ -1,0 +1,10 @@
+folder names --> LowerCase
+File names --> LowerCase
+
+variable name-> CamelCase
+Functionname -> CamelCase
+
+sqlTable name  -> all small
+
+unmarshall -> needed when we want to convert ordered/ Formatted data back into complex format (for ex json to complex formta)
+marshal -> conversion of data from a  complex format to proper format(like conversion to JSON)
